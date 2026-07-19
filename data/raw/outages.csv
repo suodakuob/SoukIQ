@@ -1,0 +1,4 @@
+outage_id,provider,start_datetime,end_datetime,reason
+101,IAM,2026-05-09 18:00:00,2026-05-09 22:00:00,Gateway Timeout
+102,Orange,2026-06-13 18:00:00,2026-06-13 22:00:00,API Overload
+103,Inwi,2026-06-27 18:00:00,2026-06-27 21:00:00,Database Failure
